@@ -1,2 +1,3 @@
 # keymeet
-Open Source Platform to plan meetings
+
+> Open Source Platform to plan meetings
